@@ -18,6 +18,9 @@ By building this simple project i learned how to use flexbox funcions in CSS to 
 
 - Google Fonts (https://fonts.google.com/) - This site helped me by providing the font that i used on the project.
 
+### Link
+
+- https://viniciusdsv93.github.io/QRcode-site/
 
 ## Author
 
